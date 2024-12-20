@@ -10,3 +10,10 @@ float addition (float a, float b){
 }
 
 // fonction division pour hope
+
+
+// fonction multiplication pour jeremy
+float multiplier (float a, float b){
+    float r=a*b;
+    return r;
+}
