@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<s
+#include<string.h>
 
 // declaration des variables 
 
